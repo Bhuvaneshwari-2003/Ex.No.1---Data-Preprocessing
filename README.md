@@ -69,5 +69,5 @@ X_train.shape
 <img width="606" alt="NN5" src="https://user-images.githubusercontent.com/94828604/229688427-631bf26f-8039-42c5-96aa-1e149d7d4cdd.png">
 
 
-## RESULT
+## RESULT:
 Data preprocessing is performed in a data set downloaded from Kaggle.
