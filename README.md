@@ -25,14 +25,19 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 ## ALGORITHM:
 Importing the libraries
+
 Importing the dataset
+
 Taking care of missing data
+
 Encoding categorical data
+
 Normalizing the data
+
 Splitting the data into test and train
 
 ## PROGRAM:
-/Write your code here/ import pandas as pd import numpy as np
+import pandas as pd import numpy as np
 
 df.duplicated()
 
